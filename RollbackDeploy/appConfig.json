@@ -1,0 +1,6 @@
+{
+    "app_name": "My Web App",
+    "version": "1.0",
+    "log_level": "info",
+    "api_key": "OLD-KEY-123"
+}
